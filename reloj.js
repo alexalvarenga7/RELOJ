@@ -1,3 +1,4 @@
+//probando github
 const secondHand = document.querySelector(".seconds");
 const minuteHand = document.querySelector(".minutes");
 const hourHand = document.querySelector(".hours");
